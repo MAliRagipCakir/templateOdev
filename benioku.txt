@@ -1,0 +1,4 @@
+1. İlk renkli kısımdan sonra sağ tarafta boşluk var, en alttada boşluk var
+2. sayfa daralınca kupanın üstüne yazılar geliyor, örnek template de de durum aynı, ama benimkinde biraz daha sıkıntılı
+3. Sayfa daralınca nav.bar ı daraltma olayını bunda uygulayamadım @media olan kısmı tam anlamamışım
+https://maliragipcakir.github.io/templateOdev/
